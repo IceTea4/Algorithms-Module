@@ -8,7 +8,6 @@ namespace lab1
 {
     class Program
     {
-        //testing
         //static long actionCount = 0;
         static int widthLimit = 6;
 

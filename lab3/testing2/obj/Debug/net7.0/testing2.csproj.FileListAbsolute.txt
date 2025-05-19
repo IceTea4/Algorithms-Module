@@ -1,0 +1,15 @@
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/bin/Debug/net7.0/testing2
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/bin/Debug/net7.0/testing2.deps.json
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/bin/Debug/net7.0/testing2.runtimeconfig.json
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/bin/Debug/net7.0/testing2.dll
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/bin/Debug/net7.0/testing2.pdb
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.csproj.AssemblyReference.cache
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.AssemblyInfoInputs.cache
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.AssemblyInfo.cs
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.csproj.CoreCompileInputs.cache
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.dll
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/refint/testing2.dll
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.pdb
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/testing2.genruntimeconfig.cache
+/Users/IceTea/Documents/Algoritmai/lab3/testing2/obj/Debug/net7.0/ref/testing2.dll

@@ -1,0 +1,15 @@
+/Users/IceTea/Documents/Algoritmai/lab4/task3/bin/Debug/net7.0/task3
+/Users/IceTea/Documents/Algoritmai/lab4/task3/bin/Debug/net7.0/task3.deps.json
+/Users/IceTea/Documents/Algoritmai/lab4/task3/bin/Debug/net7.0/task3.runtimeconfig.json
+/Users/IceTea/Documents/Algoritmai/lab4/task3/bin/Debug/net7.0/task3.dll
+/Users/IceTea/Documents/Algoritmai/lab4/task3/bin/Debug/net7.0/task3.pdb
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.dll
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/refint/task3.dll
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.pdb
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/task3.genruntimeconfig.cache
+/Users/IceTea/Documents/Algoritmai/lab4/task3/obj/Debug/net7.0/ref/task3.dll
